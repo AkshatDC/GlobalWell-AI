@@ -62,10 +62,10 @@ Aligned with **United Nations Sustainable Development Goal 3** — *Good Health 
 
 | Feature               | Preview                                                 | Description                                                                                       |
 | --------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **Personalized Plan** | ![Plan View](screenshots/plan_view.png.png)                 | AI-generated holistic wellness plans with sections for nutrition, fitness, and mental well-being. |
-| **Wellness Tools**    | ![Tools View](screenshots/tools_view.png.png)               | Includes breathing orb, local produce guide, and wellness myth-buster.                            |
-| **Productivity Aids** | ![Productivity View](screenshots/productivity_view.png.png) | Ambient noise players and Pomodoro timer for focus.                                               |
-| **Gratitude Journal** | ![Journal View](screenshots/journal_view.png.png)           | Daily gratitude log to boost mental health.                                                       |
+| **Personalized Plan** | ![Plan View](Preview/plan_view.png.png)                 | AI-generated holistic wellness plans with sections for nutrition, fitness, and mental well-being. |
+| **Wellness Tools**    | ![Tools View](Preview/tools_view.png.png)               | Includes breathing orb, local produce guide, and wellness myth-buster.                            |
+| **Productivity Aids** | ![Productivity View](Preview/productivity_view.png.png) | Ambient noise players and Pomodoro timer for focus.                                               |
+| **Gratitude Journal** | ![Journal View](Preview/journal_view.png.png)           | Daily gratitude log to boost mental health.                                                       |
 
 ---
 
