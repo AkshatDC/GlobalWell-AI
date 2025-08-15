@@ -1,11 +1,11 @@
-# 🌍 GlobalWell AI
+# GlobalWell AI
 
 **GlobalWell AI** is a personal wellness companion powered by generative AI, designed to help users improve their health, habits, and overall well-being.
 Aligned with **United Nations Sustainable Development Goal 3** — *Good Health and Well-being* — it delivers personalized, actionable guidance for a healthier life.
 
 ---
 
-## ✨ Features
+## Features
 
 * **Personalized Wellness Plans** — Tailored nutrition, fitness, and mental health recommendations based on age, gender, location, activity level, and goals.
 * **AI-Driven Local Insights** — Hyper-local seasonal produce suggestions, affordable nutrition tips, and myth-busting facts relevant to your region.
@@ -18,7 +18,7 @@ Aligned with **United Nations Sustainable Development Goal 3** — *Good Health 
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. **Clone the repository**
 
@@ -58,18 +58,18 @@ Aligned with **United Nations Sustainable Development Goal 3** — *Good Health 
 
 ---
 
-## 🖼️ Feature Showcase
+## Feature Showcase
 
 | Feature               | Preview                                                 | Description                                                                                       |
 | --------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **Personalized Plan** | ![Plan View](screenshots/plan_view.png)                 | AI-generated holistic wellness plans with sections for nutrition, fitness, and mental well-being. |
-| **Wellness Tools**    | ![Tools View](screenshots/tools_view.png)               | Includes breathing orb, local produce guide, and wellness myth-buster.                            |
-| **Productivity Aids** | ![Productivity View](screenshots/productivity_view.png) | Ambient noise players and Pomodoro timer for focus.                                               |
-| **Gratitude Journal** | ![Journal View](screenshots/journal_view.png)           | Daily gratitude log to boost mental health.                                                       |
+| **Personalized Plan** | ![Plan View](screenshots/plan_view.png.png)                 | AI-generated holistic wellness plans with sections for nutrition, fitness, and mental well-being. |
+| **Wellness Tools**    | ![Tools View](screenshots/tools_view.png.png)               | Includes breathing orb, local produce guide, and wellness myth-buster.                            |
+| **Productivity Aids** | ![Productivity View](screenshots/productivity_view.png.png) | Ambient noise players and Pomodoro timer for focus.                                               |
+| **Gratitude Journal** | ![Journal View](screenshots/journal_view.png.png)           | Daily gratitude log to boost mental health.                                                       |
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 GlobalWell_AI/
@@ -90,21 +90,21 @@ GlobalWell_AI/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions!
 If you have suggestions or improvements, please open an **issue** or submit a **pull request**.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## 🙏 Credits
+## Credits
 
 * **Ambient sound files** — [Pixabay Audio](https://pixabay.com/)
 * **Generative AI** — Powered by [Google Gemini](https://ai.google/)
-* Created by **\Akshat Chhatriwala**
+* Created by **Akshat Chhatriwala**
