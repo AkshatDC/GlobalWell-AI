@@ -1,120 +1,116 @@
-# GlobalWell AI
+GlobalWell AI 🌍
+A personal wellness companion powered by generative AI, designed to help users improve their health, habits, and wellbeing through personalized, actionable guidance—aligned with the United Nations Sustainable Development Goal 3: Good Health and Well-being.
 
-**GlobalWell AI** is a personal wellness companion powered by generative AI, designed to help users improve their health, habits, and wellbeing through personalized, actionable guidance—aligned with the United Nations Sustainable Development Goal 3: Good Health and Well-being.
+✨ Key Features
+Personalized Wellness Plans: Get custom health and lifestyle plans based on your age, gender, location, activity level, diet, and goals.
 
----
+AI-Driven Local Insights: Instantly access hyper-local, seasonal, and affordable nutrition advice, as well as myth-busting wellness facts for your region.
 
-## Features
+Ambient Noise Tools: Play soothing sounds (White Noise, Rain, Brown Noise) to create the optimal focus or relaxation environment.
 
-- **Personalized Wellness Plans**  
-  Get custom health and lifestyle plans based on your age, gender, location, activity level, diet, and goals.
+Productivity Aids: Built-in Pomodoro timer and visual breathing orb to support concentration and stress reduction.
 
-- **AI-Driven Local Insights**  
-  Instantly access hyper-local, seasonal, and affordable nutrition advice, as well as myth-busting wellness facts for your region.
+Gratitude Journal: A mini-journal to log daily gratitude and small wins for better mental health.
 
-- **Ambient Noise Tools**  
-  Play soothing sounds (White Noise, Rain, Brown Noise) to create the optimal focus or relaxation environment.
+Health Literacy and Quick Quizzes: Learn and stay motivated with surprises, quizzes, and helpful health facts.
 
-- **Productivity Aids**  
-  Built-in Pomodoro timer and visual breathing orb to support concentration and stress reduction.
+Rich Dark Mode UI: Modern, clean design optimized for low-light viewing and focus.
 
-- **Gratitude Journal**  
-  Mini-journal to log daily gratitude and small wins for better mental health.
+Chime for Mindfulness: A custom chime tool to support regular mindful breaks.
 
-- **Health Literacy and Quick Quizzes**  
-  Learn and stay motivated with surprises, quizzes, and helpful health facts.
+🚀 Installation
+Clone the repository:
 
-- **Rich Dark Mode UI**  
-  Modern, clean design optimized for low-light viewing and focus.
+git clone https://github.com/yourusername/globalwell-ai.git
+cd globalwell-ai
 
-- **Chime for Mindfulness**  
-  A custom chime tool to support regular mindful breaks.
+Install dependencies (auto-installs on first run):
+The application will automatically install the following required packages when you run it for the first time:
 
----
+Streamlit
 
-## Installation
+google-generativeai
 
-1. **Clone the repository:**
-    ```
-    git clone https://github.com/AkshatDC/GlobalWell-AI.git
-    cd GlobalWell-AI
-    ```
+python-dotenv
 
-2. **Install dependencies (auto-installs on first run):**
-    - [Streamlit](https://www.streamlit.io/)
-    - [google-generativeai](https://github.com/google/generative-ai-python)
-    - [python-dotenv](https://pypi.org/project/python-dotenv/)
-    - [reportlab](https://pypi.org/project/reportlab/)
+reportlab
 
-3. **Add your `.env` file:**
-    ```
-    GEMINI_API_KEY=your_google_generative_ai_key_here
-    ```
+Add your .env file:
+Create a file named .env in the root of the project directory and add your Google Gemini API key:
 
-4. **Place ambient noise files (`.mp3`) in your project directory**  
-   Example:  
+GEMINI_API_KEY=your_google_generative_ai_key_here
+
+Place ambient noise files (.mp3) in your project directory.
+The application is designed to look for these specific filenames. Download them and place them in the root folder:
+
 white-noise-358382.mp3
+
 calming-rain-257596.mp3
+
 soft-brown-noise-299934.mp3
 
-text
+Run the app:
 
-5. **Run the app:**
- ```
- streamlit run app.py
- ```
+streamlit run app.py
 
----
+🖼️ Features Showcase
+Here’s a closer look at some of the key features of GlobalWell AI.
 
-## Usage
+Feature
 
-- Fill your profile details in the sidebar.
-- Choose or change your preferred ambient sound and click "Start Noise".
-- Set and describe your wellness goal.
-- Click `Generate My Wellness Plan` to receive a tailored plan.
-- Use productivity, mindfulness, and gratitude tools from the "Local Wellness & Tools" tab—available at all times.
-- Download your plan in PDF format for easy reference.
-- Use the chime feature or quick health quizzes as additional support.
+Screenshot
 
----
+Description
 
-## Screenshots
+Personalized Plan
 
-![GlobalWell AI Demo](./screenshot_demo.png)
+[Placeholder for your screenshot]<br> screenshots/plan_view.png
 
----
+The app generates a holistic wellness plan, broken down into easy-to-read sections for nutrition, fitness, and mental well-being.
 
-## File Structure
+Wellness Tools
 
-.
+[Placeholder for your screenshot]<br> screenshots/tools_view.png
+
+The tools tab includes a breathing orb, a local produce guide, and a wellness myth-buster to enhance health literacy.
+
+Productivity Aids
+
+[Placeholder for your screenshot]<br> screenshots/productivity_view.png
+
+Users can access ambient noise players and a Pomodoro timer to improve focus and create a calming environment.
+
+Gratitude Journal
+
+[Placeholder for your screenshot]<br> screenshots/journal_view.png
+
+A simple and effective tool for logging daily gratitude and small wins to support mental health.
+
+📁 File Structure
 GlobalWell_AI/
-├── screenshots/
-│   └── screenshot_demo.png
 ├── .venv/
+├── screenshots/
+│   ├── plan_view.png
+│   ├── tools_view.png
+│   ├── productivity_view.png
+│   └── journal_view.png
 ├── .gitignore
 ├── .env
 ├── app.py
-└── requirements.txt
+├── requirements.txt
+├── white-noise-358382.mp3
+├── calming-rain-257596.mp3
+└── soft-brown-noise-299934.mp3
 
-
----
-
-## Contributing
-
+🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or improve.
 
----
+📄 License
+This project is licensed under the MIT License.
 
-## License
+🙏 Credits
+Ambient sound files from Pixabay Audio
 
-This project is [MIT](LICENSE) licensed.
+Generative AI powered by Google Gemini
 
----
-
-## Credits
-
-- Ambient sound files from [Pixabay Audio](https://pixabay.com/music/)
-- Generative AI powered by Google Gemini
-- Created by [Akshat Chhatriwala]
-
----
+Created by [Your Name/Your Team]
