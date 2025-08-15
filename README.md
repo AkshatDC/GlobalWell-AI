@@ -87,13 +87,14 @@ text
 ## File Structure
 
 .
-├── app.py
+GlobalWell_AI/
+├── screenshots/
+│   └── screenshot_demo.png
+├── .venv/
+├── .gitignore
 ├── .env
-├── white-noise-358382.mp3
-├── calming-rain-257596.mp3
-├── soft-brown-noise-299934.mp3
-├── README.md
-└── ...
+├── app.py
+└── requirements.txt
 
 
 ---
