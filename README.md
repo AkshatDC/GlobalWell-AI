@@ -23,8 +23,8 @@ Aligned with **United Nations Sustainable Development Goal 3** — *Good Health 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/globalwell-ai.git
-   cd globalwell-ai
+   git clone https://github.com/yourusername/GlobalWell-AI.git
+   cd GlobalWell-AI
    ```
 
 2. **Install dependencies** (auto-installs on first run)
@@ -107,4 +107,4 @@ This project is licensed under the **MIT License**.
 
 * **Ambient sound files** — [Pixabay Audio](https://pixabay.com/)
 * **Generative AI** — Powered by [Google Gemini](https://ai.google/)
-* Created by **\[Your Name / Team Name]**
+* Created by **\Akshat Chhatriwala**
