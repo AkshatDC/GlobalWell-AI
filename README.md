@@ -1,4 +1,3 @@
-text
 # GlobalWell AI
 
 **GlobalWell AI** is a personal wellness companion powered by generative AI, designed to help users improve their health, habits, and wellbeing through personalized, actionable guidance—aligned with the United Nations Sustainable Development Goal 3: Good Health and Well-being.
